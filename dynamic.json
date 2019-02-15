@@ -1,0 +1,51 @@
+{
+"profile":{
+     "img":"snow-man.jpg",
+     "name":"Dharani",
+     "Roll":"17A31A0528",
+     "Place:":"Kakinada",
+     "des":"Student"
+},
+"career":{
+	"info":"I want to seek a position where I can explore my thoughts for the bar"
+},
+"education":[
+    {
+      "sno":"1",
+      "degree":"B.tech",
+      "institute":"Pragati engineering college",
+      "per":"80",
+      "yop":"2021"
+    },
+    {
+      "sno":"2",
+      "degree":"Intermediate",
+      "institute":"Aditya junior college",
+      "per":"90",
+      "yop":"2017"
+    },
+    { 
+      "sno":"3",
+      "degree":"SSC",
+      "institute":"Sri Chaitanya Techno School",
+      "per":"90",
+      "yop":"2015"
+    }
+
+],
+
+ "languages":[
+ 	{
+ 		"lang":"English"
+
+ 	},
+ 	{
+ 		"lang":"Telugu"
+ 		
+ 	},
+ 	{
+ 		"lang":"Hindi"
+ 		
+ 	}
+ ]
+}
